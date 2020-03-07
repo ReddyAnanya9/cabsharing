@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "215362047635",
+    "firebase_url": "https://cabsharing-40dd7.firebaseio.com",
+    "project_id": "cabsharing-40dd7",
+    "storage_bucket": "cabsharing-40dd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215362047635:android:de1fa4eff771d75416c766",
+        "android_client_info": {
+          "package_name": "com.example.cabsharing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215362047635-pdp0msk4bccelhf4jmjilm15c74n8a3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8m71yeLvtdoaWJmErh6JCKUTpee2obPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215362047635-pdp0msk4bccelhf4jmjilm15c74n8a3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
